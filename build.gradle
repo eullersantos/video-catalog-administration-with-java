@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group = 'com.catalog.video.admin'
+group = 'com.fullcycle.admin.catalogo'
 version = '1.0-SNAPSHOT'
 
 repositories {
